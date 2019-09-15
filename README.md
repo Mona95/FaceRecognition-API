@@ -1,4 +1,4 @@
-# Face-recognition-API
+# Face-recognition-Server (ExpressJS)
 <ls>
   <li>Clone this repo.</li>
 	<li>Run <code>npm install</code>.</li>
